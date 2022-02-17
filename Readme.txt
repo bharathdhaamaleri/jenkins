@@ -1,1 +1,1 @@
-Deleted shell scripts
+Deleted shell scripts with minor changes
